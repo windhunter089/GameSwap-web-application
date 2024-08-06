@@ -5,6 +5,7 @@ The author is part of group 64 where work is divided between Ted, emma, nischal,
 Please send any feedback and questions to the author Ted Pham at trungpham89@gmail.com
 
 Work schema, abstract code is in Phase 2 folder.
+
 Instruction to set up and install local environment is in GameSwapSetup.md
 
 ## Video Walkthrough
