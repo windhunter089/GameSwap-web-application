@@ -1,0 +1,171 @@
+body{
+    background: #EFEFEF;
+}
+.gameswap-body-container {
+    border: solid black 1px;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 65%;
+    background: #FFFFFF;
+}
+
+.gameswap-body, .gameswap-my-items-container, .gameswap-inside-container{
+    margin: 20px;
+}
+
+
+.gameswap-my-items-container-header {
+    padding-bottom: 5px;
+}
+
+.gameswap-container-hr, .gameswap-my-items-container-hr, #gameswap-view-item-details-item-container-hr, #gameswap-propose-a-swap-hr{
+    border: solid #0d6efd 2px;
+    width: 50%;
+}
+
+#gameswap-view-item-details-item-table tr td {
+    padding-right: 0;
+}
+
+#gameswap-item-details-item-owner-distance-green{
+    background-color:lightgreen;
+}
+
+#gameswap-item-details-item-owner-distance-yellow{
+    background-color:yellow;
+}
+
+#gameswap-item-details-item-owner-distance-orange{
+    background-color:orange;
+}
+
+#gameswap-item-details-item-owner-distance-red{
+    background-color:#E43D40;
+}
+
+.gameswap-bold-td{
+    font-weight: bolder;
+}
+
+#gameswap-view-item-details-user-item-propose-swap-form-container{
+    display: flex;
+    justify-content: center;
+}
+.gameswap-lg-font{
+    font-size: 20px;
+}
+
+#gameswap-successful-swap-insertion-details-container{
+    margin: 20px;
+}
+
+#gameswap-propose-swap-distance-warning-container{
+    text-align: center;
+    font-size: larger;
+}
+
+.gameswap-accept-reject-btn-container{
+    display: grid;
+    margin: 20px;
+}
+
+#gameswap-accept-reject-swap-no-swaps-container, #gameswap-my-items-no-items-container, #gameswap-propose-swap-no-items-container{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin: 20px;
+    background-color: #d4edda;
+    padding: 20px;
+}
+
+.gameswap-user-banner-container{
+    margin-bottom: 20px;
+    float: right;
+}
+
+.gameswap-user-banner-group-item{
+    border: none;
+    background: #FFFFFF;
+}
+
+#gameswap-navbar-brand{
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+
+.gameswap-navbar-link{
+    color: black !important;
+}
+
+.gameswap-error-msg-content{
+    font-size: large;
+}
+
+.gameswap-error-msg-home-btn{
+    margin-top: 10px;
+}
+
+
+/**
+    CSS FOR SWAP ACCEPTED MODAL
+ */
+
+#gameswap-swap-accepted-rejected-modal-header-container{
+    border-bottom: solid 2px;
+}
+
+.modal-footer{
+    justify-content: center;
+}
+
+#swapAcceptedModalLabel{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#gameswap-swap-accepted-modal-ok-btn:hover{
+    cursor: pointer;
+}
+
+/**
+CSS FOR ERROR MSG PAGE
+ */
+
+.gameswap-error-msg-container-hr{
+    border: solid #0d6efd 2px;
+    width: 50%;
+}
+
+.gameswap-error-msg-container{
+    margin: 20px;
+}
+
+.gameswap-error-msg-parent-container {
+    margin: 20px 0px;
+    border: solid black 1px;
+}
+
+.bi {
+    margin: 0px 10px;
+}
+/**
+END OF CSS FOR ERROR MSG PAGE
+ */
+
+/*
+#gameswap-item-details-item-owner-container{
+    margin-top:50px;
+}
+
+#gameswap-view-item-details-item-container{
+    width: 50%;
+}
+#gameswap-item-details-item-owner-container {
+    float: right;
+}
+
+ */
