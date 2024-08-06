@@ -2,6 +2,7 @@
 
 This repository contains the code for the GameSwap web application, developed as part of the Georgia Tech CS6400 Database Class.
 The author is part of group 64 where work is divided between Ted, emma, nischal, george
+Please send any feedback and questions to the author Ted Pham at trungpham89@gmail.com
 
 Work schema, abstract code is in Phase 2 folder.
 Instruction to set up and install local environment is in GameSwapSetup.md
